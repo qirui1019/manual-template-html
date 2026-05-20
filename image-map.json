@@ -1,0 +1,41 @@
+{
+  "SEESII全品类": {
+    "保修服务": [
+      "images/SEESII全品类/page_8_保修服务_1.PNG"
+    ],
+    "功能说明与规格参数": [
+      "images/SEESII全品类/page_4_功能说明与规格参数_1.PNG",
+      "images/SEESII全品类/page_4_功能说明与规格参数_2.PNG"
+    ],
+    "安全警告": [
+      "images/SEESII全品类/page_3_安全警告_1.PNG"
+    ],
+    "封底": [
+      "images/SEESII全品类/page_10_封底_1.PNG"
+    ],
+    "封面": [
+      "images/SEESII全品类/page_1_封面_1.PNG"
+    ],
+    "废弃处理": [
+      "images/SEESII全品类/page_9_废弃处理_1.PNG"
+    ],
+    "操作指南": [
+      "images/SEESII全品类/page_5_操作指南_1.PNG",
+      "images/SEESII全品类/page_5_操作指南_2.PNG",
+      "images/SEESII全品类/page_5_操作指南_3.PNG",
+      "images/SEESII全品类/page_5_操作指南_4.PNG"
+    ],
+    "故障排除": [
+      "images/SEESII全品类/page_7_故障排除_1.PNG"
+    ],
+    "目录": [
+      "images/SEESII全品类/page_2_目录_2.PNG"
+    ],
+    "维护保养": [
+      "images/SEESII全品类/page_6_维护保养_1.PNG"
+    ]
+  },
+  "default": [
+    "images/default-placeholder.png"
+  ]
+}
